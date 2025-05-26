@@ -1,0 +1,8 @@
+Para o site funcionar completamente, adicione imagens nesta pasta com os seguintes nomes:
+
+- hero-bg.jpg (imagem principal de fundo da primeira tela)
+- manhua-example.jpg (exemplo de arte de manhuá)
+- manhua-history.jpg (imagem histórica de manhuás)
+
+As imagens podem ser encontradas em bancos de imagens gratuitos ou sites oficiais relacionados a manhuás.
+Certifique-se de respeitar os direitos autorais e usar apenas imagens que você tem permissão para utilizar. 
