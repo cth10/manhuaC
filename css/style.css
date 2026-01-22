@@ -441,6 +441,29 @@ footer {
     color: rgba(255, 255, 255, 0.6);
 }
 
+.made-by {
+    margin-top: 10px;
+    font-size: 1.1em;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.made-by a {
+    color: #ffd700; /* Gold color */
+    text-decoration: none;
+    font-weight: 700;
+    transition: all 0.3s ease;
+    text-shadow: 0 0 5px rgba(255, 215, 0, 0.5);
+    margin-left: 5px;
+}
+
+.made-by a:hover {
+    color: #fff;
+    text-shadow: 0 0 10px #ffd700, 0 0 20px #ffd700;
+    transform: scale(1.05);
+    display: inline-block;
+}
+
 /* Responsividade */
 @media (max-width: 768px) {
     .nav-links {
